@@ -1,4 +1,4 @@
-const mongoose =require('mongoose');
+
 const mongoUri="mongodb+srv://gofood:mern123@cluster0.czobeck.mongodb.net/gofoodmern?retryWrites=true&w=majority&appName=Cluster0"
 const mongoDb=async ()=>{
     
